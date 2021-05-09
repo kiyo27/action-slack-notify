@@ -1,0 +1,5 @@
+name: 'Slack Notify'
+description: 'You can notify slack of GitHub Actions.'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
